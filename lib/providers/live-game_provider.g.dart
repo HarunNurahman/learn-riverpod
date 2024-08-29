@@ -6,7 +6,7 @@ part of 'live-game_provider.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$liveGameNotifierHash() => r'847b00b00195b32248241b27dca0c564a58763f9';
+String _$liveGameNotifierHash() => r'85ca7b1cb3acc39806ef6792e797467db1893af7';
 
 /// See also [LiveGameNotifier].
 @ProviderFor(LiveGameNotifier)

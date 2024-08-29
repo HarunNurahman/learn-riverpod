@@ -6,7 +6,7 @@ part of 'genre_provider.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$genreNotifierHash() => r'b43daed99ffb9fa173f35966494a6d009934805a';
+String _$genreNotifierHash() => r'9aef7c42ce80a9f3c5b388a6de6596ce236a54dc';
 
 /// See also [GenreNotifier].
 @ProviderFor(GenreNotifier)
